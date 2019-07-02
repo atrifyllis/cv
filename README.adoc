@@ -1,0 +1,4 @@
+== To build custom Saas theme:
+* change sass file
+* `compass compile`
+* `asciidoctor -a stylesheet=asciidoctor-custom.css -a stylesdir=../asciidoctor-stylesheet-factory/stylesheets cv.adoc`
