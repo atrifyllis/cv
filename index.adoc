@@ -16,25 +16,19 @@ icon:map-marker[] Mystra 12-14, 11475 Athens (Greece)
 icon:calendar[] Date of birth 07/06/1980
 
 ****
-I am a full-stack senior developer with more than 12 years of experience.
-
+I am a full-stack senior developer with more than 12 years of experience. +
 My areas of expertise and interest are backend development using *Spring/ Spring Boot* technologies (or Java EE) and
 frontend development using Typescript (or Javascript) with AngularJS/*Angular 2+*. I am interested in both the design/architecture
-phase of a project as well as the development phase.
-
-Furthermore, I am interested in Devops, Continous delivery and performance tuning.
-
+phase of a project as well as the development phase. +
+I am also interested in Devops, Continous delivery and performance tuning. +
 I am always eager to learn new technologies and constantly getting informed for new trends,
-trying to find new ways to make the day-to-day work faster and more efficient for me and my team.
-
+trying to find new ways to make the day-to-day work faster and more efficient for me and my team. +
 I consider myself a problem-solver and solution-oriented developer.
-I like to work in teams and co-operating with my colleagues, sharing knowledge and expertise
+I like to work in Agile teams and co-operating with my colleagues and the customers, sharing knowledge and expertise
 so as *to provide the best possible result for the customers*.
 ****
 
 === Job-related skills
-
-TODO (change for every job)
 
 [#jobs]
 * Backend:
@@ -81,25 +75,45 @@ using *Java/Spring/Java EE* and frontend using *Angular*.
 
 icon:calendar[] `September 2010 to December 2015`
 
-As a Software Engineer in Interbanking Systems, I worked in several in-house and external projects as both Software engineer and technical lead.
+As a Software Engineer in Interbanking Systems, I worked in several in-house and external projects as both Software engineer
+and technical lead designing and implementing mainly web applications in *Java/Spring* on the backend and *jQuery* on the frontend.
 
-* Designed and implemented web applications mainly in *Java/Spring* on the backend and *jQuery* on the frontend.
+Some of the projects I was involved on include:
+
+* Development and integration for a new Eurozone e-payment system. Interbanking Systems was responsible for implementing
+a solution that will be used by the Greek Banks to connect to the central e-payment system "hub".
+The solution is implemented using Java EE 7 (deployed in Wildfly), Web Services using JAX-WS (CXF) with advanced security mechanisms
+(WS-Security, WS-SecurityPolicy, WS-Addressing etc.). The database used is MS SQL Server.
+Arquillian and jUnit are used for integration and unit testing; build pipeline created in Jenkins, with some automated jobs
+ (build -> tests -> sonar -> deployment in test -> performance-tests) and some manual jobs (release -> deployment in production)
+* Technical management and development of web application (e-Payments) for the General Secretariat for Information Systems
+(Spring Web Application). Solved critical issues with Weblogic integration. Implemented Taxisnet integration, web services
+and adapter for connecting to Interbanking Services Online Payment System.
 * Developed internal backend services using C.
 * Responsible for setting up the continuous delivery infrastructure for the companies application Sector (*Jenkins/Artifactory/Sonar*).
-* Lead a team of 3 for the development of the a web application (e-Payments) for the General Secretariat for Information Systems.
 
 === Software Engineer at Byte S.A., Athens (Greece)
 
 icon:calendar[] `October 2007 to June 2010`
 
-As as Software engineer in Byte, I worked in several projects for our clients.
-I was doing mostly full-stack development using Java/J2EE in backend and jQuery/Javascript in frontend.
+As as Software engineer in Byte, I worked in several projects for our clients mostly doing full-stack development using
+Java/J2EE in backend and jQuery/Javascript in frontend.
+
+Some of the projects I was involved on include:
+
+* Design, development and support of web application "Life Quotation" for a large insurance company. The application's purpose
+is the creation of insurance offers about Life, Health and Pension. Development in J2EE (single-page application),
+communication with Web Services of the insurance company. Other technologies: Servlets, JSP, jQuery, JiBX, Websphere.
+* Design, development and support of web application about the monitoring of a warehouse's production process
+(packaging – transporting of mobile phone products). Development in Java EE (Ajax enabled application). MS SQL backend.
+Other technologies: Servlers, JSP, Javascript, Tomcat.
+
 
 === Software Engineer at Lambrakis press S. A., Athens (Greece)
 
 icon:calendar[] `January 2005 to July 2005`
 
-Developed the Customer Management Application Development for the Archive Department. Technology used was C#.
+Developed the Customer Management Application for the Archive Department. Technology used was C#.
 
 == icon:graduation-cap[] Education and Training
 
