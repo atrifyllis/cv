@@ -77,11 +77,14 @@ features.
 (Contacts management, User management, etc.). The technologies used were *Spring Boot* and *Angular 4* (PrimeNG, Bootstrap, ngrx, eUI).
 I was mainly responsible for the frontend architecture, but also developed backend features.
 * Development on the Cloud Infrastructure project for ECHA. ECHA provides for its clients a private cloud space were they can spin-off
-easily instances of some of its applications. The technologies used were *rx-java* and *Apache Kafka* (among others).
+easily instances of some of its applications. The technologies used were *RxJava* and *Apache Kafka* (among others).
+* Development in existing web application of banking sector client (confidential) used for managing sanction lists. Technologies used were *Spring* and *AngularJS*.
+* Development in Client Trials application for ECHA, a web application for the members state to submit Clinical Trials. I was responsible for developing several features
+in *Java EE*/*AngularJS*, for the backend validation solution/infrastructure and for creating a 'test object' infrastructure.
 * Support and development on the Reportnet platform of the European Environment Agency. This is a suite of (mostly legacy) web applications,
 and my role was to coordinate with the rest of the dev team for the support and development activities. I was responsible for designing and
 implementing a PoC for a dynamic forms module, to be used possibly in further similar web applications for the client. Technologies used
- were *Spring*, *XQuery*, *Angular 5*, *Vue.js*, *Rancher*.
+were *Spring*, *XQuery*, *Angular 5*, *Vue.js*, *Rancher*.
 
 
 
@@ -98,8 +101,6 @@ Some of the projects I was involved on include:
 a solution that will be used by the Greek Banks to connect to the central e-payment system "hub".
 The solution is implemented using Java EE 7 (deployed in Wildfly), Web Services using JAX-WS (CXF) with advanced security mechanisms
 (WS-Security, WS-SecurityPolicy, WS-Addressing etc.). The database used is MS SQL Server.
-Arquillian and jUnit are used for integration and unit testing; build pipeline created in Jenkins, with some automated jobs
-(build -> tests -> sonar -> deployment in test -> performance-tests) and some manual jobs (release -> deployment in production)
 * Technical management and development of web application (e-Payments) for the General Secretariat for Information Systems
 (Spring Web Application). Solved critical issues with Weblogic integration. Implemented Taxisnet integration, web services
 and adapter for connecting to Interbanking Services Online Payment System.
