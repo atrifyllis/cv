@@ -1,77 +1,91 @@
-= Alexandros Trifyllis
+== Alexandros Trifyllis
 :icons: font
 
-== icon:user[] Personal Information
+=== icon:user[] Personal Information
 
 icon:envelope[] a.trifyllis@gmail.com
-
 icon:phone[] +306942473470
-
 icon:skype[] atrifyllis
-
-icon:github[] https://github.com/atrifyllis
-
-icon:map-marker[] Mystra 12-14, 11475 Athens (Greece)
-
+icon:github[] https://github.com/atrifyllis +
+icon:map-marker[] Mystra 12-14, 11475 Athens (Greece) +
 icon:calendar[] Date of birth 07/06/1980
 
-****
+==== Summary
+
 I am a full-stack senior developer with more than 12 years of experience. +
 My areas of expertise and interest are backend development using *Spring/ Spring Boot* technologies (or Java EE) and
 frontend development using Typescript (or Javascript) with AngularJS/*Angular 2+*. I am interested in both the design/architecture
-phase of a project as well as the development phase. +
-I am also interested in Devops, Continous delivery and performance tuning. +
-I am always eager to learn new technologies and constantly getting informed for new trends,
-trying to find new ways to make the day-to-day work faster and more efficient for me and my team. +
-I consider myself a problem-solver and solution-oriented developer.
-I like to work in Agile teams and co-operating with my colleagues and the customers, sharing knowledge and expertise
-so as *to provide the best possible result for the customers*.
-****
+phase of a project as well as the development phase. I am also interested in *Devops*, *Continous delivery* and performance tuning.
+I consider myself a problem-solver and solution-oriented developer. I like to work in *Agile* teams and co-operating with my colleagues,
+sharing knowledge and expertise so as *to provide the best possible result for the customers*.
 
-=== Job-related skills
+==== Job-related skills
 
 [#jobs]
-* Backend:
-** Languages: *Java*, Kotlin (beginner), Groovy (using DSLs mainly), (some C and C# in the past)
-** Web Frameworks: *Spring*, Java EE 7
-*** Spring Projects: *Spring Boot*, MVC, Data, JMS, Security, AOP, Hateoas, Cloud
-*** Java EE JSRs: CDI, EJB, JPA, JMS, JAX-RS, JAX-WS (CXF), JSF
-** ORMs: *Hibernate*, EclipseLink
-** Databases: Oracle, MS SQL Server, MySQL, (some DB2 in the past)
-** Database migration: Flyway, Liquibase
-** Application Servers: *Tomcat*, Weblogic, Wildfly, (Websphere in the past)
-** Build Tools: Maven
-** Testing: jUnit, Mockito, Arquillian, AssertJ, Hamcrest, jMeter, Testcontainers
-** Infrastructure: *Docker*, Docker compose, Docker swarm (some Kubernetes)
-* Frontend:
-** Languages: *Typescript*, Javascript
-** Frameworks: AngularJS/*Angular 2+*, (jQuery in the past), (some Vue.js)
-** State management: *ngrx (Redux)*
-** Testing: Jasmine, Jest, Karma, Selenium
-** Other: HTML, CSS/SCCS, Bootstrap, PrimeNG
-* Version control systems: *Git*, SVN
-* Collaboration tools: Jira, Confluence, BitBucket, Github, Gitlab
-* IDEs: *IntelliJ*, (Eclipse, Netbeans in the past)
-* Continuous Integration: *Jenkins*, Sonar, Artifactory/Nexus
-* Monitoring/Logging: SLF4J (logback or log4j), ELK stack, VisualVm
-* Methodologies: Agile methods, SCRUM
-* Business Modelling: UML, Activiti BPM
+[options="header"]
+|===
+| Backend | Frontend / Other
+a|
+    * Languages: *Java*, Kotlin (beginner), Groovy (using DSLs mainly), (some C and C# in the past)
+    * Web Frameworks: *Spring*, Java EE 7
+    ** Spring Projects: *Spring Boot*, MVC, Data, JMS, Security, AOP, Hateoas, Cloud
+    ** Java EE JSRs: CDI, EJB, JPA, JMS, JAX-RS, JAX-WS (CXF), JSF
+    * ORMs: *Hibernate*, EclipseLink
+    * Databases: Oracle, MS SQL Server, MySQL, (some DB2 in the past)
+    * Database migration: Flyway, Liquibase
+    * Application Servers: *Tomcat*, Weblogic, Wildfly, (Websphere in the past)
+    * Build Tools: Maven
+    * Testing: jUnit, Mockito, Arquillian, AssertJ, Hamcrest, jMeter, Testcontainers
+    * Infrastructure: *Docker*, Docker compose, Docker swarm (some Kubernetes)
 
-== icon:suitcase[] Professional Experience
+a|
+    * Languages: *Typescript*, Javascript
+    * Frameworks: AngularJS/*Angular 2+*, (jQuery in the past), (some Vue.js)
+    * State management: *ngrx (Redux)*
+    * Testing: Jasmine, Jest, Karma, Selenium
+    * Other: HTML, CSS/SCCS, Bootstrap, PrimeNG
 
-=== Senior Software Engineer at Trasys Greece, Athens (Greece)
+*Other Tools & Methodologies*
+
+    * Version control systems: *Git*, SVN
+    * Collaboration tools: Jira, Confluence, BitBucket, Github, Gitlab
+    * IDEs: *IntelliJ*, (Eclipse, Netbeans in the past)
+    * Continuous Integration: *Jenkins*, Sonar, Artifactory/Nexus
+    * Monitoring/Logging: SLF4J (logback or log4j), ELK stack, VisualVm
+    * Methodologies: Agile methods, SCRUM
+    * Business Modelling: UML, Activiti BPM
+
+|===
+
+<<<
+=== icon:suitcase[] Professional Experience
+
+==== Senior Software Engineer at Trasys Greece, Athens (Greece)
 
 icon:calendar[] `January 2016 to Now (On going)`
 
-As a Software Engineer in Trasys  I was part of several teams/projects both small and large, mostly working in backend
-using *Java/Spring/Java EE* and frontend using *Angular*.
+As a Software Engineer in Trasys  I was part of several teams/projects both small and large for clients from the European sector
+and the private sector. I was involved in design and development of web applications using *Java/Spring/Java EE*
+on the backend and *Angular* on the frontend.
 
-* Lead a team of 3 on the maintenance of a suite of legacy applications and the partial modernization of it.
-* Lead the team on the development of the frontend part of a web application in Angular 4 from scratch.
-* Was responsible for the front-end rewrite of a legacy application using Angular 7.
-* Worked on a team that developed the Cloud Infrastructure for our customer using Reactive Java and Apache Kafka (among others).
+Some of the projects I was involved on include:
 
-=== Software Engineer at Interbanking Systems S.A., Athens (Greece)
+* Design and development of REST API and re-design of frontend for a legacy web application for ECHA (European Chemical Agency). Technologies used
+were *Spring Boot* and *Angular 7* (Bootstrap, ngrx). I was mainly responsible for the frontend architecture, but also developed backend
+features.
+* Design and development of a modular web application used for administration tasks in the European Commission
+(Contacts management, User management, etc.). The technologies used were *Spring Boot* and *Angular 4* (PrimeNG, Bootstrap, ngrx, eUI).
+I was mainly responsible for the frontend architecture, but also developed backend features.
+* Development on the Cloud Infrastructure project for ECHA. ECHA provides for its clients a private cloud space were they can spin-off
+easily instances of some of its applications. The technologies used were *rx-java* and *Apache Kafka* (among others).
+* Support and development on the Reportnet platform of the European Environment Agency. This is a suite of (mostly legacy) web applications,
+and my role was to coordinate with the rest of the dev team for the support and development activities. I was responsible for designing and
+implementing a PoC for a dynamic forms module, to be used possibly in further similar web applications for the client. Technologies used
+ were *Spring*, *XQuery*, *Angular 5*, *Vue.js*, *Rancher*.
+
+
+
+==== Software Engineer at Interbanking Systems S.A., Athens (Greece)
 
 icon:calendar[] `September 2010 to December 2015`
 
@@ -85,78 +99,67 @@ a solution that will be used by the Greek Banks to connect to the central e-paym
 The solution is implemented using Java EE 7 (deployed in Wildfly), Web Services using JAX-WS (CXF) with advanced security mechanisms
 (WS-Security, WS-SecurityPolicy, WS-Addressing etc.). The database used is MS SQL Server.
 Arquillian and jUnit are used for integration and unit testing; build pipeline created in Jenkins, with some automated jobs
- (build -> tests -> sonar -> deployment in test -> performance-tests) and some manual jobs (release -> deployment in production)
+(build -> tests -> sonar -> deployment in test -> performance-tests) and some manual jobs (release -> deployment in production)
 * Technical management and development of web application (e-Payments) for the General Secretariat for Information Systems
 (Spring Web Application). Solved critical issues with Weblogic integration. Implemented Taxisnet integration, web services
 and adapter for connecting to Interbanking Services Online Payment System.
 * Developed internal backend services using C.
 * Responsible for setting up the continuous delivery infrastructure for the companies application Sector (*Jenkins/Artifactory/Sonar*).
 
-=== Software Engineer at Byte S.A., Athens (Greece)
+==== Software Engineer at Byte S.A., Athens (Greece)
 
 icon:calendar[] `October 2007 to June 2010`
 
 As as Software engineer in Byte, I worked in several projects for our clients mostly doing full-stack development using
-Java/J2EE in backend and jQuery/Javascript in frontend.
+Java/J2EE* in backend and jQuery/Javascript in frontend.
 
 Some of the projects I was involved on include:
 
 * Design, development and support of web application "Life Quotation" for a large insurance company. The application's purpose
-is the creation of insurance offers about Life, Health and Pension. Development in J2EE (single-page application),
-communication with Web Services of the insurance company. Other technologies: Servlets, JSP, jQuery, JiBX, Websphere.
+is the creation of insurance offers about Life, Health and Pension. Development in *J2EE* (single-page application),
+communication with Web Services of the insurance company. Other technologies: *Servlets*, *JSP*, *jQuery*, *JiBX*, *Websphere*.
 * Design, development and support of web application about the monitoring of a warehouse's production process
-(packaging – transporting of mobile phone products). Development in Java EE (Ajax enabled application). MS SQL backend.
-Other technologies: Servlers, JSP, Javascript, Tomcat.
+(packaging – transporting of mobile phone products). Development in Java EE (Ajax enabled application). *MS SQL* backend.
+Other technologies: *Servlets*, *JSP*, *Javascript*, *Tomcat*.
 
 
-=== Software Engineer at Lambrakis press S. A., Athens (Greece)
+==== Software Engineer at Lambrakis press S. A., Athens (Greece)
 
 icon:calendar[] `January 2005 to July 2005`
 
-Developed the Customer Management Application for the Archive Department. Technology used was C#.
+Developed the Customer Management Application for the Archive Department. Technology used was *C#*.
 
-== icon:graduation-cap[] Education and Training
+<<<
 
-=== Academic Background
+=== icon:graduation-cap[] Education and Training
 
-==== icon:university[] Oxford university, United Kingdom +
+==== Academic Background
+
+===== icon:university[] Oxford university, United Kingdom +
 icon:calendar[] `10/2006 - 10/2006` +
 Title: Master of Science in Computer Science +
 Level: Master Degree
 
-==== icon:university[] School of Engineering, University of Patras, Greece +
+===== icon:university[] School of Engineering, University of Patras, Greece +
 icon:calendar[] `09/1998 - 09/2004` +
 Title: Diploma in Computer Engineering and Informatics +
 Level: University (5-years)
 
-==== icon:university[] European School of Brussels, Belgium +
+===== icon:university[] European School of Brussels, Belgium +
 icon:calendar[] `01/1988 - 07/1998` +
 Title: European Baccalaureate Certificate +
 Level: Secondary school
 
-=== icon:certificate[] Certifications/Training
+==== icon:certificate[] Certifications/Training
 
-==== Machine Learning
-29/10/2018 +
-Type: Certification +
-Institute: Stanford University, Coursera
+[options="header"]
+|===
+| Title | Date | Type | Institute
+|Machine Learning|29/10/2018|Certification|Stanford University, Coursera
+h|Oracle Java SE 8 Programmer I|02/06/2017|Certification|Oracle
+|===
 
-==== Oracle Java SE 8 Programmer I
-02/06/2017 +
-Type: Certification +
-Institute: Oracle
-
-==== Principles and Best practices for more Secure Software Development
-16/09/2016 +
-Type: Training +
-Institute: Trasys, Greece
-
-=== Languages
-
-==== Mother tongue(s)
-Greek
-
-==== Other language(s)
+==== Languages
 
 [cols="6*",options="header"]
 |===
@@ -165,6 +168,7 @@ Greek
 
 h| h| Listening h| Reading h| Spoken interaction h| Spoken production	h|
 
+|Greek 5+|Native
 |English |C2 |C1 |C1 |C1 |B2
 |French |C2 |C1 |C1 |C1 |C1
 |German |A1 |A1 |A1 |A1 |A1
