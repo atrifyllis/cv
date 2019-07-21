@@ -64,28 +64,29 @@ a|
 
 icon:calendar[] `January 2016 to Now (On going)`
 
-As a Software Engineer in Trasys  I was part of several teams/projects both small and large for clients from the European sector
+As a Software Engineer in Trasys  I was part of several teams/projects for clients including European Organisations
 and the private sector. I was involved in design and development of web applications using *Java/Spring/Java EE*
-on the backend and *Angular* on the frontend.
+on the backend and *Angular/Angular 2+* on the frontend.
 
-Some of the projects I was involved on include:
+Some of the projects I was involved in include:
 
-* Design and development of REST API and re-design of frontend for a legacy web application for ECHA (European Chemical Agency). Technologies used
-were *Spring Boot* and *Angular 7* (Bootstrap, ngrx). I was mainly responsible for the frontend architecture, but also developed backend
-features.
+* Design and development of a REST API and re-design of a frontend application for a legacy web application for ECHA (European Chemical Agency).
+Technologies used were *Spring Boot*, *Angular 7* (Bootstrap, ngrx), Oracle DB. I was mainly responsible for the frontend architecture,
+but also developed some backend features.
 * Design and development of a modular web application used for administration tasks in the European Commission
-(Contacts management, User management, etc.). The technologies used were *Spring Boot* and *Angular 4* (PrimeNG, Bootstrap, ngrx, eUI).
+(Contacts management, User management, etc.). The technologies used were *Spring Boot*, *Angular 4* (PrimeNG, Bootstrap, ngrx, eUI). Oracle DB.
 I was mainly responsible for the frontend architecture, but also developed backend features.
-* Development on the Cloud Infrastructure project for ECHA. ECHA provides for its clients a private cloud space were they can spin-off
-easily instances of some of its applications. The technologies used were *RxJava* and *Apache Kafka* (among others).
-* Development in existing web application of banking sector client (confidential) used for managing sanction lists. Technologies used were *Spring* and *AngularJS*.
-* Development in Client Trials application for ECHA, a web application for the members state to submit Clinical Trials. I was responsible for developing several features
-in *Java EE*/*AngularJS*, for the backend validation solution/infrastructure and for creating a 'test object' infrastructure.
-* Support and development on the Reportnet platform of the European Environment Agency. This is a suite of (mostly legacy) web applications,
-and my role was to coordinate with the rest of the dev team for the support and development activities. I was responsible for designing and
-implementing a PoC for a dynamic forms module, to be used possibly in further similar web applications for the client. Technologies used
-were *Spring*, *XQuery*, *Angular 5*, *Vue.js*, *Rancher*.
-
+* Development of the Cloud Infrastructure project for ECHA. ECHA provides for its clients a private cloud space were they can spin-off
+easily instances of some of its applications. The technologies used were *RxJava* and *Apache Kafka*.
+* Development of existing web application of banking sector client (confidential) used for managing sanction lists.
+Technologies used were *Spring*, *AngularJS*, Oracle DB.
+* Development of Client Trials application for ECHA, a web application for the members state to submit Clinical Trials.
+I was responsible for developing several features in *Java EE*/*AngularJS*, for the backend validation solution/infrastructure
+and for creating a 'test object' infrastructure. Also worked on some features in Activiti.
+* Support and development on the Reportnet platform of the European Environment Agency. My role was to coordinate with
+the rest of the dev team for the support and development activities. I was responsible for designing and implementing
+a PoC for an Angular 6 dynamic forms library, to be used possibly in several web applications for the client.
+Technologies used were *Spring*, *XQuery*, *Angular 5*, *Vue.js*, *Rancher*.
 
 
 ==== Software Engineer at Interbanking Systems S.A., Athens (Greece)
@@ -95,12 +96,13 @@ icon:calendar[] `September 2010 to December 2015`
 As a Software Engineer in Interbanking Systems, I worked in several in-house and external projects as both Software engineer
 and technical lead designing and implementing mainly web applications in *Java/Spring* on the backend and *jQuery* on the frontend.
 
-Some of the projects I was involved on include:
+Some of the projects I was involved in include:
 
-* Development and integration for a new Eurozone e-payment system. Interbanking Systems was responsible for implementing
+* Development and integration with a new Eurozone e-payment system. Interbanking Systems was responsible for implementing
 a solution that will be used by the Greek Banks to connect to the central e-payment system "hub".
-The solution is implemented using Java EE 7 (deployed in Wildfly), Web Services using JAX-WS (CXF) with advanced security mechanisms
-(WS-Security, WS-SecurityPolicy, WS-Addressing etc.). The database used is MS SQL Server.
+The solution is implemented using Java EE 7 (deployed in Wildfly), Web Services using JAX-WS (CXF) and the challenging requirement
+was the integration with advanced security mechanisms (WS-Security, WS-SecurityPolicy, WS-Addressing etc.). The database used
+is MS SQL Server.
 * Technical management and development of web application (e-Payments) for the General Secretariat for Information Systems
 (Spring Web Application). Solved critical issues with Weblogic integration. Implemented Taxisnet integration, web services
 and adapter for connecting to Interbanking Services Online Payment System.
@@ -114,7 +116,7 @@ icon:calendar[] `October 2007 to June 2010`
 As as Software engineer in Byte, I worked in several projects for our clients mostly doing full-stack development using
 Java/J2EE* in backend and jQuery/Javascript in frontend.
 
-Some of the projects I was involved on include:
+Some of the projects I was involved in include:
 
 * Design, development and support of web application "Life Quotation" for a large insurance company. The application's purpose
 is the creation of insurance offers about Life, Health and Pension. Development in *J2EE* (single-page application),
