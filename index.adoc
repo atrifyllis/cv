@@ -3,12 +3,12 @@
 
 === icon:user[] Personal Information
 
+icon:calendar[] Date of birth 07/06/1980 +
 icon:envelope[] a.trifyllis@gmail.com
 icon:phone[] +306942473470
 icon:skype[] atrifyllis
 icon:github[] https://github.com/atrifyllis +
 icon:map-marker[] Mystra 12-14, 11475 Athens (Greece) +
-icon:calendar[] Date of birth 07/06/1980
 
 ==== Summary
 
@@ -16,7 +16,7 @@ I am a full-stack senior developer with more than 12 years of experience. +
 My areas of expertise and interest are backend development using *Spring/ Spring Boot* technologies (or Java EE) and
 frontend development using Typescript (or Javascript) with AngularJS/*Angular 2+*. I am interested in both the design/architecture
 phase of a project as well as the development phase. I am also interested in *Devops*, *Continous delivery* and performance tuning.
-I consider myself a problem-solver and solution-oriented developer. I like to work in *Agile* teams and co-operating with my colleagues,
+I consider myself a problem-solver and a solution-oriented developer. I like to work in *Agile* teams and co-operating with my colleagues,
 sharing knowledge and expertise so as *to provide the best possible result for the customers*.
 
 ==== Job-related skills
@@ -70,44 +70,50 @@ on the backend and *Angular/Angular 2+* on the frontend.
 
 Some of the projects I was involved in include:
 
-* Design and development of a REST API and re-design of a frontend application for a legacy web application for ECHA (European Chemical Agency).
-Technologies used were *Spring Boot*, *Angular 7* (Bootstrap, ngrx), Oracle DB. I was mainly responsible for the frontend architecture,
-but also developed some backend features.
-* Design and development of a modular web application used for administration tasks in the European Commission
-(Contacts management, User management, etc.). The technologies used were *Spring Boot*, *Angular 4* (PrimeNG, Bootstrap, ngrx, eUI). Oracle DB.
-I was mainly responsible for the frontend architecture, but also developed backend features.
-* Development of the Cloud Infrastructure project for ECHA. ECHA provides for its clients a private cloud space were they can spin-off
-easily instances of some of its applications. The technologies used were *RxJava* and *Apache Kafka*.
-* Development of existing web application of banking sector client (confidential) used for managing sanction lists.
+* Design and development of a REST API and also complete rewrite of the frontend part for a legacy web application
+for a European Agency.
+Technologies used were *Spring Boot*, *Angular 7* (Bootstrap, ngrx), Oracle DB. I was mainly responsible for the frontend
+architecture, but also worked on backend features. I was also responsible of creating Jenkins pipelines using Groovy
+DSL.
+* Design and development of a modular web application used for administration tasks for a DG of the European Commission
+(Contacts management, User management, etc.). The technologies used were *Spring Boot*, *Angular 4* (PrimeNG, Bootstrap,
+ngrx, eUI). Oracle DB.
+I was mainly responsible for the frontend architecture, but also worked on backend features.
+* Development of the Cloud Infrastructure project for a European Agency. This agency provides for its clients a private
+cloud space were they can manage instances of its applications. This cloud infrastructure consists of several
+microservices and the technologies used were Java EE, *RxJava* and *Apache Kafka*.
+* Development of existing web application of banking sector client used for managing sanction lists.
 Technologies used were *Spring*, *AngularJS*, Oracle DB.
-* Development of Client Trials application for ECHA, a web application for the members state to submit Clinical Trials.
-I was responsible for developing several features in *Java EE*/*AngularJS*, for the backend validation solution/infrastructure
-and for creating a 'test object' infrastructure. Also worked on some features in Activiti.
+* Development of web application for a European Agency, used by the members state to submit Clinical Trials.
+I was responsible for developing several features in *Java EE*/*AngularJS*, for the backend validation solution/
+infrastructure and for creating a 'Test Object' infrastructure. I also worked on some features in Activiti.
 * Support and development on the Reportnet platform of the European Environment Agency. My role was to coordinate with
 the rest of the dev team for the support and development activities. I was responsible for designing and implementing
-a PoC for an Angular 6 dynamic forms library, to be used possibly in several web applications for the client.
-Technologies used were *Spring*, *XQuery*, *Angular 5*, *Vue.js*, *Rancher*.
+a PoC for an Angular 6 dynamic forms library, to be used potentially in several web applications.
+Technologies used were *Spring/Spring Boot*, *XQuery*, *Angular 5*, *Vue.js*, *Rancher*.
 
 
 ==== Software Engineer at Interbanking Systems S.A., Athens (Greece)
 
 icon:calendar[] `September 2010 to December 2015`
 
-As a Software Engineer in Interbanking Systems, I worked in several in-house and external projects as both Software engineer
-and technical lead designing and implementing mainly web applications in *Java/Spring* on the backend and *jQuery* on the frontend.
+As a Software Engineer in Interbanking Systems, I worked in several in-house and external projects as both Software
+engineer and technical lead designing and implementing mainly web applications in *Java/Spring* on the backend and
+*jQuery* on the frontend.
 
 Some of the projects I was involved in include:
 
-* Development and integration with a new Eurozone e-payment system. Interbanking Systems was responsible for implementing
-a solution that will be used by the Greek Banks to connect to the central e-payment system "hub".
-The solution is implemented using Java EE 7 (deployed in Wildfly), Web Services using JAX-WS (CXF) and the challenging requirement
-was the integration with advanced security mechanisms (WS-Security, WS-SecurityPolicy, WS-Addressing etc.). The database used
-is MS SQL Server.
-* Technical management and development of web application (e-Payments) for the General Secretariat for Information Systems
-(Spring Web Application). Solved critical issues with Weblogic integration. Implemented Taxisnet integration, web services
-and adapter for connecting to Interbanking Services Online Payment System.
+* Development and integration with a new Eurozone e-payment system. Interbanking Systems was responsible for
+implementing a solution that will be used by the Greek Banks to connect to the central e-payment system "hub".
+The solution is implemented using Java EE 7 (deployed in Wildfly), Web Services using JAX-WS (CXF) and the challenging
+ requirement was the integration with advanced security mechanisms (WS-Security, WS-SecurityPolicy, WS-Addressing etc.).
+The database used is MS SQL Server.
+* Technical management and development of web application (e-Payments) for the General Secretariat for Information
+Systems (Spring Web Application). Solved critical issues with Weblogic integration. Implemented Taxisnet integration,
+web services and adapter for connecting to Interbanking Services Online Payment System.
 * Developed internal backend services using C.
-* Responsible for setting up the continuous delivery infrastructure for the companies application Sector (*Jenkins/Artifactory/Sonar*).
+* Responsible for setting up the continuous delivery infrastructure for the companies application Sector (*Jenkins/
+Artifactory/Sonar*).
 
 ==== Software Engineer at Byte S.A., Athens (Greece)
 
@@ -118,12 +124,13 @@ Java/J2EE* in backend and jQuery/Javascript in frontend.
 
 Some of the projects I was involved in include:
 
-* Design, development and support of web application "Life Quotation" for a large insurance company. The application's purpose
-is the creation of insurance offers about Life, Health and Pension. Development in *J2EE* (single-page application),
-communication with Web Services of the insurance company. Other technologies: *Servlets*, *JSP*, *jQuery*, *JiBX*, *Websphere*.
-* Design, development and support of web application about the monitoring of a warehouse's production process
-(packaging – transporting of mobile phone products). Development in Java EE (Ajax enabled application). *MS SQL* backend.
-Other technologies: *Servlets*, *JSP*, *Javascript*, *Tomcat*.
+* Design, development and support of web application "Life Quotation" for a large insurance company. The application's
+purpose is the creation of insurance offers about Life, Health and Pension. Development in *J2EE* (single-page
+application), communication with Web Services of the insurance company. Other technologies: *Servlets*, *JSP*, *jQuery*,
+*JiBX*, *Websphere*.
+* Design, development and support of web application about the monitoring of a warehouse's production process (packaging
+– transporting of mobile phone products). Development in Java EE (Ajax enabled application). *MS SQL* backend. Other
+technologies: *Servlets*, *JSP*, *Javascript*, *Tomcat*.
 
 
 ==== Software Engineer at Lambrakis press S. A., Athens (Greece)
