@@ -1,5 +1,5 @@
-== Alexandros Trifyllis
 :icons: font
+== Alexandros Trifyllis
 
 === icon:user[] Personal Information
 
@@ -16,7 +16,7 @@ I am a full-stack senior developer with more than 12 years of experience. +
 My areas of expertise and interest are backend development using *Spring/ Spring Boot* technologies (or Java EE) and
 frontend development using Typescript (or Javascript) with AngularJS/*Angular 2+*. I am interested in both the design/architecture
 phase of a project as well as the development phase. I am also interested in *Devops*, *Continous delivery* and performance tuning.
-I consider myself a problem-solver and a solution-oriented developer. I like to work in *Agile* teams and co-operating with my colleagues,
+I consider myself a problem-solver and a solution-oriented developer. I like working in *Agile* teams and co-operating with my colleagues,
 sharing knowledge and expertise so as *to provide the best possible result for the customers*.
 
 ==== Job-related skills
@@ -73,7 +73,7 @@ Some of the projects I was involved in include:
 * Design and development of a REST API and also complete rewrite of the frontend part for a legacy web application
 for a European Agency.
 Technologies used were *Spring Boot*, *Angular 7* (Bootstrap, ngrx), Oracle DB. I was mainly responsible for the frontend
-architecture, but also worked on backend features. I was also responsible of creating Jenkins pipelines using Groovy
+architecture, but also worked on backend features. I was also responsible for creating Jenkins pipelines using Groovy
 DSL.
 * Design and development of a modular web application used for administration tasks for a DG of the European Commission
 (Contacts management, User management, etc.). The technologies used were *Spring Boot*, *Angular 4* (PrimeNG, Bootstrap,
@@ -146,7 +146,7 @@ Developed the Customer Management Application for the Archive Department. Techno
 ==== Academic Background
 
 ===== icon:university[] Oxford university, United Kingdom +
-icon:calendar[] `10/2006 - 10/2006` +
+icon:calendar[] `10/2005 - 10/2006` +
 Title: Master of Science in Computer Science +
 Level: Master Degree
 
@@ -179,8 +179,8 @@ h|Oracle Java SE 8 Programmer I|02/06/2017|Certification|Oracle
 h| h| Listening h| Reading h| Spoken interaction h| Spoken production	h|
 
 |Greek 5+|Native
-|English |C2 |C1 |C1 |C1 |B2
-|French |C2 |C1 |C1 |C1 |C1
+|English |C1 |C1 |C1 |C1 |C1
+|French |C1 |C1 |C1 |C1 |C1
 |German |A1 |A1 |A1 |A1 |A1
 
 |===
