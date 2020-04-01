@@ -60,9 +60,17 @@ a|
 <<<
 === icon:suitcase[] Professional Experience
 
+==== Senior Software Engineer at Viabill, Remote
+
+icon:calendar[] `January 2020 to April 2020`
+
+I was part of the core product team, initially worked on extracting a microservice from the main monolithic application.
+After that I worked on various new features and bugs concerning mainly the checkout module. Technologies used:
+*Java/Spring Boot*, MariaDB, Apache Camel, Domain Driven Design, Event Driven Architecture.
+
 ==== Senior Software Engineer at Trasys Greece, Athens (Greece)
 
-icon:calendar[] `January 2016 to Now (On going)`
+icon:calendar[] `January 2016 to November 2019`
 
 As a Software Engineer in Trasys  I was part of several teams/projects for clients including European Organisations
 and the private sector. I was involved in design and development of web applications using *Java/Spring/Java EE*
