@@ -60,6 +60,15 @@ a|
 <<<
 === icon:suitcase[] Professional Experience
 
+==== Senior Software Engineer at Trasys Greece, Athens (Greece)
+
+icon:calendar[] `May 2020 to Now (On going)`
+
+I am working on the development of the UK Emissions Trading System. It is an enterprise application developed with Spring Boot/Angular,
+PostgreSQL, Keycloak as Identity and Access Management system, Apache Kafka for messaging. Among others, I was responsible
+for creating a custom migration mechanism in Keycloak to be able to manage its configuration in a versioned manner.
+Investigated complex issues concerning Kafka configuration for producers when multiple instances of an application are deployed.
+
 ==== Senior Software Engineer at Viabill, Remote
 
 icon:calendar[] `January 2020 to April 2020`
