@@ -170,7 +170,7 @@ Level: Master Degree
 ===== icon:university[] School of Engineering, University of Patras, Greece +
 icon:calendar[] `09/1998 - 09/2004` +
 Title: Diploma in Computer Engineering and Informatics +
-Level: University (5-years)
+Level: Bachelor + Master (5-years studies)
 
 ===== icon:university[] European School of Brussels, Belgium +
 icon:calendar[] `01/1988 - 07/1998` +
