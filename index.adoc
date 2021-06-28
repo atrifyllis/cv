@@ -3,12 +3,10 @@
 
 === icon:user[] Personal Information
 
-icon:calendar[] Date of birth 07/06/1980 +
+icon:calendar[] Date of birth 07/06/1980
 icon:envelope[] a.trifyllis@gmail.com
-icon:phone[] +306942473470
 icon:skype[] atrifyllis
 icon:github[] https://github.com/atrifyllis +
-icon:map-marker[] Mystra 12-14, 11475 Athens (Greece) +
 
 ==== Summary
 
