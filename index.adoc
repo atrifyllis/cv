@@ -62,7 +62,7 @@ a|
 
 icon:calendar[] `April 2022 to Now (On going)`
 
-I am part of the bug-fixing team in the Entry Exit System of euLisa. I am also heavily involved in some devops tasks e.g. coordinating releases, making sure that everything is running smoothly in development environment.
+I am part of the bug-fixing team in the Entry Exit System of euLisa. I am also heavily involved in some devops tasks e.g. coordinating releases, making sure that everything is running smoothly in development environment. I created a tool to improve the experience of reproducing bugs. I am involved also in non-functional bugs and issues.
 
 ==== Senior Software Engineer at Trasys Greece, Athens (Greece)
 
