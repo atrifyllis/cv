@@ -189,6 +189,8 @@ Level: Secondary school
 | Title | Date | Type | Institute
 |Machine Learning|29/10/2018|Certification|Stanford University, Coursera
 h|Oracle Java SE 8 Programmer I|02/06/2017|Certification|Oracle
+|Certified Kubernetes Application Developer (CKAD)|21/12/2022|Certification|Linux Foundation
+
 |===
 
 ==== Languages
