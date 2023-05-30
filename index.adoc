@@ -12,10 +12,10 @@ icon:github[] https://github.com/atrifyllis +
 
 I am a full-stack senior developer with more than 12 years of experience. +
 My areas of expertise and interest are backend development using *Spring/ Spring Boot* technologies (or Java EE) and
-frontend development using Typescript (or Javascript) with AngularJS/*Angular 2+*. I am interested in both the design/architecture
-phase of a project as well as the development phase. I am also interested in *Devops*, *Continous delivery* and performance tuning.
+frontend development using Typescript (or Javascript) with AngularJS/*Angular 2+*. I am interested in both the design/*architecture*
+phase of a project and the development phase. I am also interested in *Devops*, *Continuous delivery* and performance tuning.
 I consider myself a problem-solver and a solution-oriented developer. I like working in *Agile* teams and co-operating with my colleagues,
-sharing knowledge and expertise so as *to provide the best possible result for the customers*.
+sharing knowledge and expertise *to provide the best possible result for the customers*.
 
 ==== Job-related skills
 
@@ -24,17 +24,17 @@ sharing knowledge and expertise so as *to provide the best possible result for t
 |===
 | Backend | Frontend / Other
 a|
-    * Languages: *Java*, Kotlin (beginner), Groovy (using DSLs mainly), (some C and C# in the past)
+    * Languages: *Java*, *Kotlin*, Groovy (using DSLs and writing Spock tests), (some C and C# in the past)
     * Web Frameworks: *Spring*, Java EE 7
     ** Spring Projects: *Spring Boot*, MVC, Data, JMS, Security, AOP, Hateoas, Cloud
     ** Java EE JSRs: CDI, EJB, JPA, JMS, JAX-RS, JAX-WS (CXF), JSF
     * ORMs: *Hibernate*, EclipseLink
-    * Databases: Oracle, MS SQL Server, MySQL, (some DB2 in the past)
+    * Databases: *PostgreSQL*, Oracle, MS SQL Server, MySQL, (some DB2 in the past)
     * Database migration: Flyway, Liquibase
     * Application Servers: *Tomcat*, Weblogic, Wildfly, (Websphere in the past)
-    * Build Tools: Maven
-    * Testing: jUnit, Mockito, Arquillian, AssertJ, Hamcrest, jMeter, Testcontainers
-    * Infrastructure: *Docker*, Docker compose, Docker swarm (some Kubernetes)
+    * Build Tools: *Gradle*, Maven
+    * Testing: jUnit, Spock, Mockito, Arquillian, AssertJ, Hamcrest, jMeter, Testcontainers
+    * Infrastructure: *Docker*, *Kubernetes*, Docker compose, Docker swarm
 
 a|
     * Languages: *Typescript*, Javascript
@@ -49,9 +49,9 @@ a|
     * Collaboration tools: Jira, Confluence, BitBucket, Github, Gitlab
     * IDEs: *IntelliJ*, (Eclipse, Netbeans in the past)
     * Continuous Integration: *Jenkins*, Sonar, Artifactory/Nexus
-    * Monitoring/Logging: SLF4J (logback or log4j), ELK stack, VisualVm
+    * Observability/Logging: SLF4J (logback or log4j), ELK stack, VisualVm, Grafana, Loki, Tempo, Prometheus
     * Methodologies: Agile methods, SCRUM
-    * Business Modelling: UML, Activiti BPM
+    * Business Modelling: UML, Activiti/Camunda BPM
 
 |===
 
@@ -62,7 +62,11 @@ a|
 
 icon:calendar[] `April 2022 to Now (On going)`
 
-I am part of the bug-fixing team in the Entry Exit System of euLisa. I am also heavily involved in some devops tasks e.g. coordinating releases, making sure that everything is running smoothly in development environment. I created a tool to improve the experience of reproducing bugs. I am involved also in non-functional bugs and issues.
+I am part of the team mainly responsible for maintenance/defect resolution in the Entry Exit System of euLisa. I created a small tool to improve the experience of reproducing bugs, to be used by the team members (using Spring Batch).
+I am involved in non-functional bugs and issues as well.
+I have acquired expertise in the Workflow Engine subsystem, which is a Spring boot microservice that mainly uses Drools to implement the most complex business logic area of the system. I had to understand the business quite extensively to be able to implement new/missing features as well as to fix complex bugs.
+I am also heavily involved in some devops tasks e.g. coordinating releases, making sure that everything is running smoothly in development/testing environments.
+
 
 ==== Senior Software Engineer at Trasys Greece, Athens (Greece)
 
@@ -72,7 +76,7 @@ I am working on the development of the UK Emissions Trading System. It is an ent
 PostgreSQL, Keycloak as Identity and Access Management system, Apache Kafka for messaging. Among others, I was responsible
 for creating a custom migration mechanism in Keycloak to be able to manage its configuration in a versioned manner.
 Investigated complex issues concerning Kafka configuration for producers when multiple instances of an application are deployed.
-Finally, I was responsible of the whole design and development of the reporting microservice.
+Finally, I was responsible for the whole design and development of the reporting microservice.
 
 ==== Senior Software Engineer at Viabill, Remote
 
@@ -141,7 +145,7 @@ Artifactory/Sonar*).
 
 icon:calendar[] `October 2007 to June 2010`
 
-As as Software engineer in Byte, I worked in several projects for our clients mostly doing full-stack development using
+As a Software engineer in Byte, I worked in several projects for our clients mostly doing full-stack development using
 Java/J2EE* in backend and jQuery/Javascript in frontend.
 
 Some of the projects I was involved in include:
